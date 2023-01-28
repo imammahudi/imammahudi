@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Course etc**
 
-- 💬 Ask me about **react, vue and go**
+- 💬 Ask me about **laravel,react, vue and go**
 
 - 📫 How to reach me **imammahudi233@gmail.com**
 
